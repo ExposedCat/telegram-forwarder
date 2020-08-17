@@ -1,5 +1,5 @@
 # telegram-forwarder
-Post forwarder from channel to groups/private messages
+Posts forwarder from channel to groups/private messages
 
 Dependencies: `satanic`
 
